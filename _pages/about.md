@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/web_img.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a research scholar at the IIT Mandi.
+👨🏻‍💻 I'm a research scholar at IIT Mandi.
 
 🔬 My research interests are in Robotics, Control systems, Reinforcement learning and Vision based control!
 
@@ -32,7 +32,7 @@ I have experience with independent and collaborative research.I have implemented
 
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Drone Lab at IIT Mandi under the supervision of Dr. Amit Shukla working on **Multi-agent collaborative systems**.
+Currently I am working as a **Student Researcher** in Drone Lab at IIT Mandi under the supervision of Dr. Amit Shukla working on **Multi-agent collaborative systems**.
 
 ## 📚 Teaching Contributions
 I have worked as a teaching assistant in several courses during my masters tenure.

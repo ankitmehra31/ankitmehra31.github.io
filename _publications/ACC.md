@@ -1,11 +1,11 @@
 ---
-title: "Pixels to Pursuit: A Comparative Study of PID, SMC, DQN, and DDPG based control for Vision-Based UAV-AGV Collaboration"
+title: "Pixels to Pursuit: A Comparative Study of PID, SMC, DQN, and DDPG based control for Vision-Based UAV-AGV Collaboration(Under Review )"
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this paper, we have explored various control strategies for an AGV and UAV collaborative system. Our work focuses on developing a vision-based localization and control method for the AGV. We introduced four distinct control strategies: PID control, SMC, DQN based control, and DDPG based control, aimed at achieving continuous tracking of the UAV.
 We conducted a comprehensive comparison of these controllers across multiple parameters, highlighting their respective advantages and limitations. Everything was experimentally validated.'
-# date: 2010-10-01
+date: 2025-07-08
 venue: ' American Control Conference 2025, Denver, USA'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'

@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Comparative Study of PID, SMC, DQN, and DDPG based control UAV-AGV collaboration"
+excerpt: "Hardware implementation of PID, SMC, DQN, DDPG based control for UAV-AGV collaboration. <br/><img src='/images/linear_tracking.mp4'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project i have implemented PID, SMC, DQN, DDPG based controller for an AGV tracking a UAV using visual feedback. I have created a [custom env](/images/Custom_env.png) for training of the Reinfocement learning based controllers. I have implemented and verified the controllers on real hardware. This work is submitted in [ACC 2025](https://ankitmehra31.github.io/publication/ACC) and the code for this work can be found [here](https://github.com/ankitmehra31/AGV-UAV-Collaboration).   
