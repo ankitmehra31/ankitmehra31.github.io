@@ -1,6 +1,6 @@
 ---
 title: "Comparative Study of PID, SMC, DQN, and DDPG based control UAV-AGV collaboration"
-excerpt: "Hardware implementation of PID, SMC, DQN, DDPG based control for UAV-AGV collaboration. <br/><img src='/images/linear_tracking.mp4'>"
+excerpt: "Hardware implementation of PID, SMC, DQN, DDPG based control for UAV-AGV collaboration. <br/><img src='/images/web_img.png'>"
 collection: portfolio
 ---
 
