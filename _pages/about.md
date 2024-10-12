@@ -25,10 +25,10 @@ I have contribute to multiple projects in my lab
 [Vision based control for autonomous firefighting](https://github.com/ankitmehra31/Vision-based-control-of-firefighting-UAV). Developed control algorithm for a UAV to maneuver autonomously based on visual and distance sensor.
 [Design and development of a Quadruped Robot](https://github.com/ankitmehra31/Quadruped_Robot). Designed a quadruped robot from scratch, wrote forward and inverse kinematics for the same.
 [Hetrogeneous multi agent collaborative system](https://github.com/ankitmehra31/AGV-UAV-Collaboration). Developed control algorithms for UAV tracking an AGV. Compared PID,SMC and RL(DQN,DDPG) based control strategies for the same.
-Moreover, I have also published papers in respective conferences[ICCAE](https://ankitmehra31.github.io/publications/ICCAE),[ICRAS](https://ankitmehra31.github.io/publications/ICRAS) and [ACC](https://ankitmehra31.github.io/publications/ACC).
+Moreover, I have also published papers in respective conferences[ICCAE](https://ankitmehra31.github.io/_publications/ICCAE),[ICRAS](https://ankitmehra31.github.io/_publications/ICRAS) and [ACC](https://ankitmehra31.github.io/_publications/ACC).
 
 ## 📜 Reimplementing and Reproducing Papers
-I have experience with independent and collaborative research.I have implemented several research papers. I have worked and published papers with my collegues [here](https://ankitmehra31.github.io/publications/ICRAS).
+I have experience with independent and collaborative research.I have implemented several research papers. I have worked and published papers with my collegues [here](https://ankitmehra31.github.io/_publications/ICRAS).
 
 
 ## 👨🏻‍🔬 Professional Experience
